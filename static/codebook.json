@@ -1,0 +1,110 @@
+{
+    "title":"Code Book",
+    "description":"<strong>Acceptable</strong>: The policy, terms & condition does not violate any human values, ethical and or legal principles.",
+    "tableTitle":"The following values or principles must be met:",
+    "tableColumns":[
+        "Values/Principles",
+        "Description"
+    ],
+    "tableData":[
+        {
+            "values/principles":"<strong>Autonomy</strong>",
+            "description":"User is empowered with the ability to control their information."
+        },
+        {
+            "values/principles":"<strong>Transparency</strong>",
+            "description":"Open and transparent management of personal information."
+        },
+        {
+            "values/principles":"<strong>Fairness</strong>",
+            "description":"Freedom from bias and discrimination. Treats all users equally. Does not bias toward user or service provider."
+        },
+        {
+            "values/principles":"<strong>Accessibility</strong>",
+            "description":"Language is clear and accessible for all users."
+        },
+        {
+            "values/principles":"<strong>Informed Consent</strong>",
+            "description":"Consent is voluntarily provided and not coerced."
+        },
+        {
+            "values/principles":"<strong>Security</strong>",
+            "description":"Secures data to the best ability, complies with data protection laws."
+        },
+        {
+            "values/principles":"<strong>Integrity</strong>",
+            "description":"Serves an intended purpose aligned with organization's practices and intentions."
+        }
+    ],
+    "exampleColumns":[
+        "Category",
+        "Text"
+    ],
+    "ppExampleTitle":"Privacy Policy Examples",    
+    "ppExamples":[
+        {
+            "category":"<strong>Data Collection<strong>",
+            "text":"We collect the following types of data:<br>Personal Information: This includes your name, email address, and phone number, which are necessary for creating an account and providing our services.<br>Usage Information: We may collect data about your interactions with our platform, such as pages viewed, features used, and your preferences.<br>Cookies: We utilize cookies to enhance your user experience and improve our services. You can manage cookie settings in your browser."
+        },
+        {
+            "category":"<strong>Data Use<strong>",
+            "text":"We use your data for the following purposes:<br>Service Provision: Your personal information is used to create and manage your account and to deliver our services effectively.<br>Communication: We may send you essential updates, service notifications, and tailored recommendations based on your preferences."
+        },
+        {
+            "category":"<strong>Your Choices<strong>",
+            "text":"We respect your autonomy and provide you with choices:<br>Access and Correction: You have the right to access and update your personal information through your account settings.<br>Opt-out: You can opt out of receiving marketing communications at any time by adjusting your email preferences."
+        },
+        {
+            "category":"<strong>Data Security<strong>",
+            "text":"We maintain robust security measures to protect your data against unauthorized access or disclosure."
+        },
+        {
+            "category":"<strong>Changes to this Privacy Policy<strong>",
+            "text":"If we make significant changes to this Privacy Policy, we will notify you via email or by posting a notice on our website."
+        },
+        {
+            "category":"<strong>Contact Us<strong>",
+            "text":"If you have questions or concerns about this Privacy Policy, please contact us at privacy@email.com."
+        }
+    ],
+    "tcExampleTitle":"Terms & Conditions Examples",
+    "tcExamples":[
+        {
+            "category":"<strong>User Responsibilities<strong>",
+            "text":"Compliance with Laws: You agree to use our service in compliance with all applicable laws and regulations.<br>Respect for Others: Treat other users and our staff with respect and refrain from engaging in any form of harassment, discrimination, or harmful behavior.<br>Protect Your Account: Keep your account information and password confidential. You are responsible for any activities that occur under your account."
+        },
+        {
+            "category":"<strong>Service Usage<strong>",
+            "text":"Content: You retain ownership of any content you submit to our service. By using our service, you grant us a non-exclusive, worldwide, royalty-free license to use, store, and display your content solely for the purpose of providing our services.<br>Privacy: We respect your privacy. Our Privacy Policy outlines how we collect, use, and protect your data. Your personal information will not be shared with third parties without your consent.<br>Termination: We reserve the right to terminate or suspend your account if you violate these terms or engage in harmful or abusive behavior."
+        },
+        {
+            "category":"<strong>Payments and Refunds<strong>",
+            "text":"Payment Terms: If our service includes paid features, you agree to pay the specified fees. Payment details and billing information are handled securely.<br>Refunds: If you are not satisfied with our paid services, you may request a refund within 30 days of purchase, provided you have not violated these terms."
+        },
+        {
+            "category":"<strong>Changes to Terms<strong>",
+            "text":"Notification: We will notify you of any significant changes to these terms via email or through our service. Your continued use of our service after such changes constitutes acceptance of the updated terms."
+        },
+        {
+            "category":"<strong>Customer Support<strong>",
+            "text":"Assistance: We are committed to providing excellent customer support. If you have any questions or encounter issues, please contact our support team, and we will assist you promptly."
+        },
+        {
+            "category":"<strong>Dispute Resolution<strong>",
+            "text":"Arbitration: Any disputes arising from or related to these terms will be resolved through binding arbitration, following the rules of the American Arbitration Association."
+        },
+        {
+            "category":"<strong>Governing Law<strong>",
+            "text":"Jurisdiction: These terms are governed by the laws of [Jurisdiction], and any legal actions related to these terms will be filed in the appropriate court in [Jurisdiction]."
+        },
+        {
+            "category":"<strong>Conclusion<strong>",
+            "text":"By using [Service Name], you agree to these terms and conditions. We aim to provide you with a reliable and secure service while respecting your rights and privacy. If you have any questions or concerns, please don't hesitate to contact us."
+        }
+    ]
+}
+
+
+
+
+
